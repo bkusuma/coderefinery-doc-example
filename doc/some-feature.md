@@ -1,6 +1,10 @@
 # Some feature
 
-## Subsection
+## Subsection 1
+
+I write some stuff here
+
+## Subsection 2
 
 Exciting documentation in here.
 Let's make a list (empty surrounding lines required):
@@ -12,3 +16,5 @@ Let's make a list (empty surrounding lines required):
 
 - item 2
 - item 3
+
+# Where will this show?
